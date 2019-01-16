@@ -1,0 +1,8 @@
+<!--
+ - Created by User on 1/3/2019.
+ -->
+
+<apex:page id="CurrencyRatePage">
+    <html>
+    </html>
+</apex:page>
